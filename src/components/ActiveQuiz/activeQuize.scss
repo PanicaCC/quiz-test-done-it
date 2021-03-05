@@ -1,0 +1,21 @@
+.quiz__active {
+  padding: 20px;
+  border: 2px solid #80cbc4;
+  box-sizing: border-box;
+
+  h5 {
+    display: flex;
+    justify-content: space-between;
+  }
+  &--image {
+    margin-top: 15px;
+    text-align: center;
+    img {
+      max-height: 150px;
+    }
+  }
+
+  &--question {
+    font-weight: bold;
+  };
+}

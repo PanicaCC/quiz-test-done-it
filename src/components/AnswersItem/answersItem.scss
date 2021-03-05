@@ -1,0 +1,8 @@
+.quiz__active--item {
+  cursor: pointer;
+  transition: background-color ease-in-out .2s;
+
+  &:hover {
+    background: rgba(0,0,0, .2);
+  }
+}

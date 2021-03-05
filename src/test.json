@@ -1,0 +1,62 @@
+{
+  "title": "Тайинственный цвет",
+  "time": 30,
+  "data": [
+    {
+      "id": 1,
+      "question": "Какого цвета небо?",
+      "rightAnswerId": 2,
+      "image": "http://www.vokrugsveta.ru/img/bx/iblock/734/734d0efb1edf6e46afd72c250dc46fe7.jpg",
+      "type": {
+        "test": {
+          "options": [
+            {
+              "id": 1,
+              "answer": "Розовый"
+            },
+            {
+              "id": 2,
+              "answer": "Синий"
+            },
+            {
+              "id": 3,
+              "answer": "Жёлтый"
+            },
+            {
+              "id": 4,
+              "answer": "Зелёный"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "question": "Какого цвета снег?",
+      "rightAnswerId": 1,
+      "image": false,
+      "type": {
+        "test": {
+          "options": [
+            {
+              "id": 1,
+              "answer": "Белый"
+            },
+            {
+              "id": 2,
+              "answer": "Синий"
+            },
+            {
+              "id": 3,
+              "answer": "Жёлтый"
+            },
+            {
+              "id": 4,
+              "answer": "Зелёный"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
